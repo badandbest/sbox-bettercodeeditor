@@ -1,0 +1,14 @@
+{
+  "Title": "Better Code Editor",
+  "Type": "library",
+  "Org": "badandbest",
+  "Ident": "bettercodeeditor",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Mounts": null,
+  "IsStandaloneOnly": false,
+  "Metadata": {}
+}
